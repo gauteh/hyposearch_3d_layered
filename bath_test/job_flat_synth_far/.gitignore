@@ -1,0 +1,7 @@
+*.fig
+*.mat
+hs_out
+hs_log*
+b
+.gmt*
+

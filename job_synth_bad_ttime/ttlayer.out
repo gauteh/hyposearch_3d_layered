@@ -1,0 +1,13 @@
+TTLAYER OUTPUT FILE
+--------------------------------------------------------------------------------
+ input 
+ Maximum delta in km:   14.0
+ Delta increment in km:   14.0
+ Hypocentral depth in km:    5.0
+ Phase type:  
+--------------------------------------------------------------------------------
+ output (layer=layer model, grad=gradient model
+    distance  tp (layer)   tp (grad)  ts (layer)   ts (grad)
+--------------------------------------------------------------------------------
+       0.000       0.806       0.796       1.403       1.385
+      14.000       2.400       2.368       4.176       4.120

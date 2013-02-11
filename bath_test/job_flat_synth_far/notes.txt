@@ -1,0 +1,15 @@
+# traveltimes created with:
+
+taup_time -mod regional -h 5.0 -km 5 -ph p,s,s3p,p^0Pv3p,p^0Pv3p^0Pv3p
+
+change km to a predefed distance for each station
+
+
+ using velp:
+ 1500, 5800
+
+ vels:
+ 1500, 3200
+
+ interface at 3000
+
